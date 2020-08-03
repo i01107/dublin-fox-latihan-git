@@ -1,0 +1,15 @@
+JavaScript
+
+# bahasa pemrograman scripting
+    1. yang dulunya berjalan di dalam browser yang dapat membuat halaman page menjadi dinamis
+    2. sekarang menjadi bahasa pemrograman yang berjalan di virtual machine (JavaScript engine) digunakan sebagai backend/ pemrosesan task/kerja di sisi server
+
+# bersifat free dan mempunyai komunitas yang luas
+
+# bahasa pemrograman paling favorit nomor 2 setelah python di dunia pada tahun 2020
+
+# sekarang mempunyai aturan rule/ specification yang terdokumentasikan didalam ES6 (versi JavaScript 2015)
+
+# untuk dapat menuliskan bahasa pemrograman ini, kita harus mendefinisikan sintaks atau baris code yang tersimpan di dalam file berekstensikan *.js
+        
+    
